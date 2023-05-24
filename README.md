@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 📫 How to reach me: 
 * [LinkedIn](https://www.linkedin.com/in/svnm/)
-* [Email](silivan99@gmail.com)
+* [Email](mailto:silivan99@gmail.com)
 
