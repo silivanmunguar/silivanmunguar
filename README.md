@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 🔭 I’m currently working on:
-* Microsoft Azure for Operators Nexus Team.
+* Microsoft Azure for Operators Nexus Cloud Team.
 
 ⚡ Fun Fact
 * I speak 6 different languages.
