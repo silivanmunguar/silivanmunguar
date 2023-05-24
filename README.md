@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
-# 🔭 I’m currently working on:
-Microsoft Azure for Operators Nexus Team.
+🔭 I’m currently working on:
+* Microsoft Azure for Operators Nexus Team.
 
-# ⚡ Fun Fact
-I speak 6 different languages.
+⚡ Fun Fact
+* I speak 6 different languages.
 
-# 📫 How to reach me: 
-[LinkedIn](https://www.linkedin.com/in/svnm/)
+📫 How to reach me: 
+*[LinkedIn](https://www.linkedin.com/in/svnm/)
 
