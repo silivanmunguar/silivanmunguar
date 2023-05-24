@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 * I speak 6 different languages.
 
 📫 How to reach me: 
-*[LinkedIn](https://www.linkedin.com/in/svnm/)
+* _[LinkedIn](https://www.linkedin.com/in/svnm/)
 
