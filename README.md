@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 * 🧳Travel
 
 ### `⚡ Two Truths and a Lie`
-  _Can you spot the lie? Check your answer!_
-- [ ] 🦜 I speak atleast 6 different languages.
-- [ ] ✈️ I have jumped out of plane.
-- [ ] 🧀 I love cheese.
+  _Can you spot the lie?_
+* 🦜 I speak atleast 6 different languages.
+* ✈️ I have jumped out of plane.
+* 🧀 I love cheese.
 
 ### `📫 How to reach me`
 * 🖇️ [LinkedIn](https://www.linkedin.com/in/svnm/)
