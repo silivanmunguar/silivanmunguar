@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 * Microsoft Azure for Operators Nexus Cloud Team.
 
 ⚡ Fun Fact
-* I speak 6 different languages.
+* I speak atleast 6 different languages.
 
 📫 How to reach me: 
 * [LinkedIn](https://www.linkedin.com/in/svnm/)
