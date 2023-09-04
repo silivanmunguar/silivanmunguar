@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 ### `💼 Professional Career`
 👩🏾‍💻 I’m currently working at:
-* Microsoft Azure for Operators Nexus Cloud Team.
+* [Soronko Academy](https://soronkoacademy.com/)
+
 
 👷🏾‍♀️I have worked at:
+* [Microsoft Azure for Operators](https://azure.microsoft.com/en-us/solutions/industries/telecommunications).
 * [Harvust](https://www.harvust.com/)
 * [Edulution](https://www.edulution.org/)
 
