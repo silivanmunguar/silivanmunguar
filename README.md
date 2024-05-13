@@ -17,13 +17,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
+
 ### `💼 Professional Career`
 👩🏾‍💻 I’m currently working at:
-* [Soronko Academy](https://soronkoacademy.com/)
+* ✈️ Traveling. 
+
 
 
 👷🏾‍♀️I have worked at:
-* [Microsoft Azure for Operators](https://azure.microsoft.com/en-us/solutions/industries/telecommunications).
+* [Soronko Academy](https://soronkoacademy.com/)
+* [Microsoft Azure Operator Nexus](https://azure.microsoft.com/en-us/solutions/industries/telecommunications)
 * [Harvust](https://www.harvust.com/)
 * [Edulution](https://www.edulution.org/)
 
@@ -31,6 +34,9 @@ Here are some ideas to get you started:
 ### `🎈 Personal Projects`
 ⚒️ I’m currently working on:
 * SoundLink - an app and browser extension to help people easily share music
+* [Gnamma Technologies](https://www.gnamma.net/) - an ITaas and Saas startup
+* [Insurflow](https://www.joininsurflow.com/) - an insurance claims settlement platform startup.
+
 
 ### `🕺 Hobbies`
 * 🩰 Dancing
