@@ -1,5 +1,5 @@
 ### Hi there,
-My name is Silivan and I am Computer Science major at Whitman College in Walla Walla, and I am from [Lusaka, the capital of Zambia](https://www.google.com/search?q=lusaka+zambia&rlz=1C1CHBF_enUS1051US1051&oq=lusaka+zambia&aqs=chrome..69i57j69i60.4492j0j1&sourceid=chrome&ie=UTF-8).
+My name is Silivan and I am Computer Science Alumn from Whitman College in Walla Walla, and I am from [Lusaka, the capital of Zambia](https://www.google.com/search?q=lusaka+zambia&rlz=1C1CHBF_enUS1051US1051&oq=lusaka+zambia&aqs=chrome..69i57j69i60.4492j0j1&sourceid=chrome&ie=UTF-8).
 
 👋🏾 Let's Connect Below
 #
