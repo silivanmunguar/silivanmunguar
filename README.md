@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### `💼 Professional Career`
 👩🏾‍💻 I’m currently working at:
-* ✈️ Traveling. 
+* [Microsoft Azure Operator Nexus](https://azure.microsoft.com/en-us/solutions/industries/telecommunications)
 
 
 
